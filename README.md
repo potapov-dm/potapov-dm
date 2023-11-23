@@ -15,6 +15,7 @@ Welcome to my repository featuring some of my projects. Below is a list of proje
 ### Project 1
 Building from scratch a classifier model capable of distinguishing dogs from cats. Data processing, creation and training of a neural network, evaluation of accuracy and improvement of the results obtained.  
 <br>Technologies used: Python, Keras, Matplotlib.
+![image](https://github.com/potapov-dm/potapov-dm/assets/49323039/8b99aad1-dd39-49c4-934f-54f2041d9b38)
 
 
 ### Project 2
