@@ -10,8 +10,7 @@ Welcome to my repository featuring some of my projects. Below is a list of proje
 4. **WateerPipes** - Java-based game application. | [Repository Link](https://github.com/Interes-Group/zadanie-2-pipes-d-potapov) | 
 5. **Eshop** - Application server developed with the Spring framework. | [Repository Link](https://github.com/Interes-Group/zadanie-3-eshop-d-potapov) |
 
-  
-<br><br>
+<br>
 
 ## Project Descriptions
 
