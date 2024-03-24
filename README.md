@@ -4,7 +4,7 @@
 
 Welcome to my repository featuring some of my projects. Below is a list of projects I have worked on along with a brief description of each.
 
-1. **Numbers Generator** - a cDCGAN model that is able to generste numbers. | [Repository Link](https://github.com/potapov-dm/numbers_generation_cDCGAN) |
+1. **Numbers Generator** - a cDCGAN model that is able to generate numbers. | [Repository Link](https://github.com/potapov-dm/numbers_generation_cDCGAN) |
 2. **Image Classifier** - a classifier CNN that is able to distinguish dogs from cats. | [Repository Link](https://github.com/potapov-dm/image-classification-cat-dog/blob/main/image_classification_cat_dog.ipynb) |
 3. **Pong Game** - online multiplayer version of the Pong game. | [Repository Link](https://github.com/potapov-dm/pong-game) |
 4. **WateerPipes** - Java-based game application. | [Repository Link](https://github.com/Interes-Group/zadanie-2-pipes-d-potapov) | 
