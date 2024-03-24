@@ -1,3 +1,5 @@
+- Email: dmytro.ptpv@gmail.com
+- LinkedIn: [Dmyrto Potapov](https://www.linkedin.com/in/potapov-dm/)
 # Projects
 
 Welcome to my repository featuring some of my projects. Below is a list of projects I have worked on along with a brief description of each.
